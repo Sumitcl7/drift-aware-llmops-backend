@@ -1,0 +1,3 @@
+from monitoring.drift_monitor import detect_embedding_drift
+
+detect_embedding_drift()
